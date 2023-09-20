@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-2019.01 ~ CAU software undergraduate
-
-2021.6 ~ 2023.7 lionrocket.inc data scientist  
+- 2019.01 ~ CAU software undergraduate
+- 2021.6 ~ 2023.7 lionrocket.inc data scientist  
 
 <!--
 **Hur2/Hur2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
