@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-2019.01 ~ CAU software undergraduate  
+2019.01 ~ CAU software undergraduate
+
 2021.6 ~ 2023.7 lionrocket.inc data scientist  
 
 <!--
